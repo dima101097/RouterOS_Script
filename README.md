@@ -6,3 +6,4 @@
 - [dangerString](https://github.com/dima101097/RouterOS_Script/blob/main/dangerString.rsc) - Проводить пошук невдалих авторизацій, та додає їх адреса в адрес лист, скріптовий Feil2Ban
 - [queue_PCQ_TREE](https://github.com/dima101097/RouterOS_Script/blob/main/queue_PCQ_TREE.rsc) - (ПОТРЕБУЄ ПЕРПИСУ) створює PCQ QOS
 - [tetegramRuDecoder](https://github.com/dima101097/RouterOS_Script/blob/main/tetegramRuDecoder.rsc) - Декодер для телеграма.
+- [LogToTelegram](https://github.com/dima101097/RouterOS_Script/blob/main/LogToTelegram.rsc) - (ДОПИСУЄТЬСЯ) Відправка LOG подій в телеграм бота
