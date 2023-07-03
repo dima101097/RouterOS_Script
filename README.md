@@ -1,4 +1,4 @@
-# RouterOS_Script
+# RouterOS Script
 - [AutoUpgrade](https://github.com/dima101097/RouterOS_Script/blob/main/AutoUpgrade.rsc) - Автоматичне оновлення RouterBOOT, після перезавантаження якщо вірсії "Current Firmware" та "Upgrade Firmware" не збыгаються, то скрипт проведе автоматичне оновлення з перезавантаженням маршрутизатора
 - [CurentIP](https://github.com/dima101097/RouterOS_Script/blob/main/CurentIP.rsc) - (ЗАСТАРІВ, ПОТРЕБУЄ ПОВНОГО ПЕРЕПИСУ) Перевірка чи не змінив провайдер адресу, та в випадку якщо зафіксовано зміну, відправляє повідомлення в телеграм бота з старим та новим адресом, та оновлює DDNS
 - [RealIP](https://github.com/dima101097/RouterOS_Script/blob/main/RealIP.rsc) - При виконанні скрипта через термінал, виводить в терміналі білу IP через яку MikroTik виходить в світ.
