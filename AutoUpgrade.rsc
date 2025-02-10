@@ -1,4 +1,4 @@
-:local curentF [/system package get [find name=routeros] version]
+:local curentF [system routerboard get current-firmware]
 :local upgradeF [system routerboard get upgrade-firmware]
 
 if ($curentF != $upgradeF) do={
